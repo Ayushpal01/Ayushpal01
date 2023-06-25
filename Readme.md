@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Ayush Pal </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## 💫 About Me:
-🔭 I'm a passionate developer with a strong interest in software development. I thrive on exploring new technologies and finding innovative solutions to real-world problems. <br>🤝  I'm particularly enthusiastic about the development. My goal is to contribute to the projects and make a positive impact through my work.<br>🌱 I'm constantly learning and expanding my knowledge in MERN stack technologies. I enjoy collaborating with fellow developers and exploring open-source projects.<br>🎯 Let's connect and create something amazing together!"<br>📫 You can reach me via email {ayush.pal.iitp@gmail.com}, and I'm always open to interesting discussions, collaborations, or project ideas.
+🔭 I'm a passionate developer and thrive on finding innovative solutions to real-world problems. <br>🤝  My goal is to contribute to the projects and make a positive impact through my work.<br>🌱 I'm constantly learning and expanding my knowledge to collaborate with fellow developers and explore open-source projects.<br>🎯 Let's connect and create something amazing together!<br>📫 You can reach me via email {ayush.pal.iitp@gmail.com}, and I'm always open to interesting discussions, collaborations, or project ideas.
 
 
 ## 🌐 Socials:
